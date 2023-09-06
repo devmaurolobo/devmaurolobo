@@ -11,11 +11,11 @@
 
 <div align="center" dir="auto">  
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=devmaurolobo&show_icons=true&theme=dracula&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=00bfbf&bg_color=0d1117">
-    <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devmaurolobo&show_icons=true&theme=dracula&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Mauro GitHub stats">
+    <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devmaurolobo&show_icons=true&theme=dracula&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Mauro GitHub stats">
   </a> 
 
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaurolobo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117">
-    <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaurolobo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Mauro Top Langs">
+    <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaurolobo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Mauro Top Langs">
   </a>
 </div>
 
